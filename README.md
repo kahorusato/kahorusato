@@ -26,7 +26,7 @@
 
 ## グラレコ
 
-[グラレコ](￼![Uploading image.png…])
+[グラレコ] (￼![Uploading image.png…])
 
 
 
