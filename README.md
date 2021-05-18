@@ -26,7 +26,8 @@
 
 ## グラレコ
 
-[グラレコ] (file:///Users/user/Downloads/%E3%82%AF%E3%82%99%E3%83%A9%E3%83%AC%E3%82%B3.jpg)
+[グラレコ画像] (file:///Users/user/Downloads/%E3%82%AF%E3%82%99%E3%83%A9%E3%83%AC%E3%82%B3%E7%94%BB%E5%83%8F.jpg）
+
 
 
 
