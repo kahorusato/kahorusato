@@ -11,7 +11,7 @@
 #### <2020>
 
 ゼミ論
-
+[聞き書きにおけるグラレコを用いた情報の記録法の可能性について](https://github.com/furuhashilab/2020gsc_KahoruSato)
 
 <!--
 **kahorusato/kahorusato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
