@@ -26,12 +26,8 @@
 
 ## グラレコ
 
-![グラレコ画像］（file:///Users/user/Downloads/%E3%82%AF%E3%82%99%E3%83%A9%E3%83%AC%E3%82%B3%E7%94%BB%E5%83%8F.jpg）
+![グラレコ画像](https://user-images.githubusercontent.com/64342648/118576298-36278f00-b7c3-11eb-8ffe-acc4035f3ade.jpg)
 
-
-
-
-<!--
 **kahorusato/kahorusato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
