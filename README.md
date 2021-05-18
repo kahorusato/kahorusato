@@ -8,10 +8,28 @@
 
 ## ゼミ活動
 
-#### <2020>
+### <2020年度>
+主にグラレコ部として活動
+
 
 ゼミ論
+
 [聞き書きにおけるグラレコを用いた情報の記録法の可能性について](https://github.com/furuhashilab/2020gsc_KahoruSato)
+
+
+### <2021年度>
+デザイン部グラレコ班として活動
+
+・主に毎週のゼミ内容をグラレコ
+
+
+
+## グラレコ
+
+[グラレコ](￼![Uploading image.png…])
+
+
+
 
 <!--
 **kahorusato/kahorusato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
